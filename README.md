@@ -32,44 +32,30 @@ Welcome to VipBetMaestro, an advanced Telegram bot designed for managing betting
 ## Screenshots
 
 ![Screenshot 1](screenshot/screenshot1.png)
-*Caption for Screenshot 1*
 
 ![Screenshot 2](screenshot/screenshot2.png)
-*Caption for Screenshot 2*
 
 ![Screenshot 3](screenshot/screenshot3.png)
-*Caption for Screenshot 3*
 
 ![Screenshot 4](screenshot/screenshot4.png)
-*Caption for Screenshot 4*
 
 ![Screenshot 5](screenshot/screenshot5.png)
-*Caption for Screenshot 5*
 
 ![Screenshot 6](screenshot/screenshot6.png)
-*Caption for Screenshot 6*
 
 ![Screenshot 7](screenshot/screenshot7.png)
-*Caption for Screenshot 7*
 
 ![Screenshot 8](screenshot/screenshot8.png)
-*Caption for Screenshot 8*
 
 ![Screenshot 9](screenshot/screenshot9.png)
-*Caption for Screenshot 9*
 
 ![Screenshot 10](screenshot/screenshot10.png)
-*Caption for Screenshot 10*
 
 ![Screenshot 11](screenshot/screenshot11.png)
-*Caption for Screenshot 11*
 
 ![Screenshot 12](screenshot/screenshot12.png)
-*Caption for Screenshot 12*
 
 ![Screenshot 13](screenshot/screenshot13.png)
-*Caption for Screenshot 13*
-
 
 ## Contact
 
