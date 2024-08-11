@@ -2,6 +2,8 @@
 
 Welcome to VipBetMaestro, an advanced Telegram bot designed for managing betting predictions from Vip Tipster participants on Nesine.com.
 
+💸 Note: Our project is a paid service. If you are interested in purchasing, please contact us at tylngkhn@gmail.com for more details. 📧
+
 ## Features
 
 1. **New User Exclusive Credit (Balance) Gift System**
